@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # ShopoFox
 I Developed this e-commerce website using Javascript , ReactJS(viteJs), Firebase and Tailwind CSS.
->>>>>>> a6a8d8cbb48e15e393a7c09665a1d93dad5840d2
+>>>>>>>
