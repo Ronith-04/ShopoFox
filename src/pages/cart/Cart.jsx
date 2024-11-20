@@ -80,8 +80,8 @@ function Cart() {
     // console.log(addressInfo)
 
     var options = {
-      key: "",
-      key_secret: "",
+      key: "rzp_test_bQO1VWLch3XJee",
+      key_secret: "nHc5dYpav5v4flWbPSP5Jvfc",
       amount: parseInt(grandTotal * 100),
       currency: "INR",
       order_receipt: 'order_rcptid_' + name,
